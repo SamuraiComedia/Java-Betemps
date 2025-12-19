@@ -1,0 +1,2 @@
+[ReadMe.txt](https://github.com/user-attachments/files/24247679/ReadMe.txt)
+Este repositório contém uma série de implementações em Java que abrangem desde os fundamentos da Programação Orientada a Objetos (POO) até estruturas de dados avançadas e algoritmos com classificações de dados. O projeto foi desenvolvido com foco educativo, seguindo requisitos acadêmicos específicos. O projeto está consolidado em um único arquivo principal e organizado por classes.
